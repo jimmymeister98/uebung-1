@@ -41,6 +41,7 @@ int main() {
        a = i;
       g =  a % 10 ;
        printf ("%d teiler von %d\n" ,g,i );
+       printf ("_______________________________________\n");
  //   printf("%d teiler von %d\n" ,b,i);
 }
 return 0;
